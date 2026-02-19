@@ -3,8 +3,9 @@ name: execution-gap-diagnosis
 description: Identify why strategies fail in implementation and create an action plan to close the gap between plans and results.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3949
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - execution-gap-diagnosis
